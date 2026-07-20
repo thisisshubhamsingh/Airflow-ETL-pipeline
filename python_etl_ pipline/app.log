@@ -1,0 +1,193 @@
+2026-07-18 13:45:15,785 - INFO - customers data loaded successfuly
+2026-07-18 13:45:15,787 - INFO - orders data loaded successfuly
+2026-07-18 13:45:15,788 - INFO - marketing data loaded successfuly
+2026-07-18 13:47:08,694 - INFO - customers data loaded successfuly
+2026-07-18 13:47:08,694 - INFO - orders data loaded successfuly
+2026-07-18 13:47:08,694 - INFO - marketing data loaded successfuly
+2026-07-18 14:35:09,844 - INFO - found 3 files
+2026-07-18 14:35:09,844 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:35:09,844 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:35:09,844 - INFO - loaded orders_clean.csv successfully
+2026-07-18 14:35:44,361 - INFO - found 3 files
+2026-07-18 14:35:44,362 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:35:44,395 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:35:44,395 - INFO - loaded orders_clean.csv successfully
+2026-07-18 14:36:21,375 - INFO - found 3 files
+2026-07-18 14:36:21,380 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:36:21,382 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:36:21,383 - INFO - loaded orders_clean.csv successfully
+2026-07-18 14:37:12,674 - INFO - found 3 files
+2026-07-18 14:37:12,678 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:37:12,679 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:37:12,679 - INFO - loaded orders_clean.csv successfully
+2026-07-18 14:37:41,488 - INFO - found 3 files
+2026-07-18 14:37:41,502 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:37:41,505 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:37:41,505 - INFO - loaded orders_clean.csv successfully
+2026-07-18 14:38:07,025 - INFO - found 3 files
+2026-07-18 14:38:07,025 - INFO - loaded customers_clean.csv successfully
+2026-07-18 14:38:07,025 - INFO - loaded marketing_clean.csv successfully
+2026-07-18 14:38:07,025 - INFO - loaded orders_clean.csv successfully
+2026-07-19 13:38:03,711 - INFO - found 3 files
+2026-07-19 13:38:03,727 - INFO - loaded customers_clean.csv successfully
+2026-07-19 13:38:03,743 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 13:38:03,759 - INFO - loaded orders_clean.csv successfully
+2026-07-19 13:40:01,115 - INFO - found 3 files
+2026-07-19 13:40:01,115 - INFO - loaded customers_clean.csv successfully
+2026-07-19 13:40:01,130 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 13:40:01,130 - INFO - loaded orders_clean.csv successfully
+2026-07-19 13:45:56,052 - INFO - found 3 files
+2026-07-19 13:45:56,069 - INFO - loaded customers_clean.csv successfully
+2026-07-19 13:45:56,069 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 13:45:56,069 - INFO - loaded orders_clean.csv successfully
+2026-07-19 13:59:13,125 - INFO - found 3 files
+2026-07-19 13:59:13,163 - INFO - loaded customers_clean.csv successfully
+2026-07-19 13:59:13,175 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 13:59:13,175 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:07:02,022 - INFO - found 3 files
+2026-07-19 14:07:02,028 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:07:02,030 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:07:02,032 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:07:32,286 - INFO - found 3 files
+2026-07-19 14:07:32,286 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:07:32,286 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:07:32,286 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:07:48,332 - INFO - found 3 files
+2026-07-19 14:07:48,332 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:07:48,349 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:07:48,351 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:07:52,062 - INFO - found 3 files
+2026-07-19 14:07:52,062 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:07:52,062 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:07:52,062 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:09:50,229 - INFO - found 3 files
+2026-07-19 14:09:50,229 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:09:50,229 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:09:50,229 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:09:57,359 - INFO - found 3 files
+2026-07-19 14:09:57,359 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:09:57,359 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:09:57,359 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:11:19,892 - INFO - found 3 files
+2026-07-19 14:11:19,892 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:11:19,892 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:11:19,892 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:12:03,384 - INFO - found 3 files
+2026-07-19 14:12:03,384 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:12:03,384 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:12:03,384 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:39:11,385 - INFO - found 3 files
+2026-07-19 14:39:11,435 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:39:11,435 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:39:11,435 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:39:11,435 - INFO - files loaded: ['customers_clean.csv', 'marketing_clean.csv', 'orders_clean.csv']
+2026-07-19 14:40:06,036 - INFO - found 3 files
+2026-07-19 14:40:06,036 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:40:06,036 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:40:06,048 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:41:10,385 - INFO - found 3 files
+2026-07-19 14:41:10,388 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:41:10,391 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:41:10,393 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:41:10,393 - INFO - files loaded: ['customers_clean.csv', 'marketing_clean.csv', 'orders_clean.csv']
+2026-07-19 14:41:34,865 - INFO - found 3 files
+2026-07-19 14:41:34,865 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:41:34,865 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:41:34,865 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:41:34,865 - INFO - files loaded
+2026-07-19 14:42:14,515 - INFO - found 3 files
+2026-07-19 14:42:14,515 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:42:14,515 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:42:14,515 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:42:14,515 - INFO - files loaded
+2026-07-19 14:46:23,880 - INFO - found 3 files
+2026-07-19 14:46:23,887 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:46:23,887 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:46:23,892 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:46:23,892 - INFO - files loaded
+2026-07-19 14:49:45,125 - INFO - found 3 files
+2026-07-19 14:49:45,132 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:49:45,136 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:49:45,138 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:49:45,138 - INFO - files loaded
+2026-07-19 14:49:45,138 - INFO - Cleaned all columns
+2026-07-19 14:50:12,213 - INFO - found 3 files
+2026-07-19 14:50:12,217 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:50:12,219 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:50:12,220 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:50:12,221 - INFO - files loaded
+2026-07-19 14:50:12,223 - INFO - Cleaned all columns
+2026-07-19 14:50:17,780 - INFO - found 3 files
+2026-07-19 14:50:17,780 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:50:17,780 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:50:17,780 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:51:22,462 - INFO - found 3 files
+2026-07-19 14:51:22,462 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:51:22,462 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:51:22,462 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:51:22,477 - INFO - files loaded
+2026-07-19 14:51:22,477 - INFO - Cleaned all columns
+2026-07-19 14:54:35,029 - INFO - found 3 files
+2026-07-19 14:54:35,042 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:54:35,044 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:54:35,046 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:54:35,046 - INFO - files loaded
+2026-07-19 14:54:35,046 - INFO - Cleaned all columns
+2026-07-19 14:54:35,048 - INFO - Cleaned all columns
+2026-07-19 14:54:35,048 - INFO - Cleaned all columns
+2026-07-19 14:55:08,078 - INFO - found 3 files
+2026-07-19 14:55:08,078 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:55:08,085 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:55:08,085 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:57:34,131 - INFO - found 3 files
+2026-07-19 14:57:34,151 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:57:34,151 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:57:34,151 - INFO - loaded orders_clean.csv successfully
+2026-07-19 14:59:04,610 - INFO - found 3 files
+2026-07-19 14:59:04,626 - INFO - loaded customers_clean.csv successfully
+2026-07-19 14:59:04,630 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 14:59:04,632 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:02:18,394 - INFO - found 3 files
+2026-07-19 15:02:18,398 - INFO - loaded customers_clean.csv successfully
+2026-07-19 15:02:18,398 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 15:02:18,400 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:07:36,124 - INFO - found 3 files
+2026-07-19 15:07:36,133 - INFO - loaded customers_clean.csv successfully
+2026-07-19 15:07:36,135 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 15:07:36,137 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:10:38,566 - INFO - found 3 files
+2026-07-19 15:10:38,573 - INFO - loaded customers_clean.csv successfully
+2026-07-19 15:10:38,573 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 15:10:38,582 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:10:56,332 - INFO - found 3 files
+2026-07-19 15:10:56,332 - INFO - loaded customers_clean.csv successfully
+2026-07-19 15:10:56,332 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 15:10:56,332 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:10:56,332 - INFO - files loaded
+2026-07-19 15:10:56,332 - INFO - Cleaned all columns
+2026-07-19 15:10:56,332 - INFO - Cleaned all columns
+2026-07-19 15:10:56,332 - INFO - Cleaned all columns
+2026-07-19 15:10:56,350 - INFO - repalced all missing values
+2026-07-19 15:10:56,350 - INFO - droped duplicates
+2026-07-19 15:10:56,366 - INFO - missing amount replaced with zero
+2026-07-19 15:10:56,366 - INFO - merged dataframes
+2026-07-19 15:10:56,366 - INFO - created new column: roi
+2026-07-19 15:12:27,530 - INFO - found 3 files
+2026-07-19 15:12:27,530 - INFO - loaded customers_clean.csv successfully
+2026-07-19 15:12:27,530 - INFO - loaded marketing_clean.csv successfully
+2026-07-19 15:12:27,530 - INFO - loaded orders_clean.csv successfully
+2026-07-19 15:12:27,530 - INFO - files loaded
+2026-07-19 15:12:27,530 - INFO - Cleaned all columns
+2026-07-19 15:12:27,530 - INFO - Cleaned all columns
+2026-07-19 15:12:27,530 - INFO - Cleaned all columns
+2026-07-19 15:12:27,530 - INFO - repalced all missing values
+2026-07-19 15:12:27,547 - INFO - droped duplicates
+2026-07-19 15:12:27,547 - INFO - missing amount replaced with zero
+2026-07-19 15:12:27,547 - INFO - merged dataframes
+2026-07-19 15:12:27,547 - INFO - created new column: roi
+2026-07-19 15:12:27,564 - INFO - final data has been saved
+2026-07-19 20:02:17,860 - INFO - Loaded: 14 rows into final table
+2026-07-19 20:02:50,387 - INFO - Loaded: 14 rows into final table
+2026-07-19 20:08:16,329 - INFO - Loaded: 14 rows into final table
+2026-07-19 20:09:18,652 - INFO - Loaded: 14 rows into final table
+2026-07-20 13:22:17,726 - INFO - Loaded: 14 rows into final table

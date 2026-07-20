@@ -1,0 +1,15 @@
+order_id,customer_id,product,amount,order_date,name,email,city,signup_date,campaign_id,marketing_spend,channel,roi
+101,1,Phone,500.0,2/1/2024,Amit Sharma,amit@gmail.com,Delhi,1/1/2024,201,100,Facebook,5.0
+101,1,Phone,500.0,2/1/2024,Amit Sharma,amit@gmail.com,Delhi,1/1/2024,204,120,Facebook,4.166666666666667
+102,2,Laptop,1200.0,2/2/2024,Riya Singh,riya@gmail.com,Mumbai,1/5/2024,202,300,Google,4.0
+102,2,Laptop,1200.0,2/2/2024,Riya Singh,riya@gmail.com,Mumbai,1/5/2024,205,250,Google,4.8
+103,3,Tablet,300.0,2/3/2024,Rahul Verma,unknown@gmail.com,Bangalore,1/7/2024,203,50,Instagram,6.0
+104,1,Phone,500.0,2/1/2024,Amit Sharma,amit@gmail.com,Delhi,1/1/2024,201,100,Facebook,5.0
+104,1,Phone,500.0,2/1/2024,Amit Sharma,amit@gmail.com,Delhi,1/1/2024,204,120,Facebook,4.166666666666667
+105,4,Laptop,1500.0,2/5/2024,Sneha Patel,sneha@gmail.com,Ahmedabad,1/10/2024,202,300,Google,5.0
+105,4,Laptop,1500.0,2/5/2024,Sneha Patel,sneha@gmail.com,Ahmedabad,1/10/2024,205,250,Google,6.0
+106,5,Tablet,0.0,2/6/2024,Arjun Mehta,arjun@gmail.com,Delhi,1/15/2024,203,50,Instagram,0.0
+107,6,Phone,700.0,2/7/2024,Neha Gupta,neha@gmail.com,unknown,1/18/2024,201,100,Facebook,7.0
+107,6,Phone,700.0,2/7/2024,Neha Gupta,neha@gmail.com,unknown,1/18/2024,204,120,Facebook,5.833333333333333
+108,7,Laptop,1300.0,2/8/2024,Karan Malhotra,karan@gmail.com,Delhi,1/20/2024,202,300,Google,4.333333333333333
+108,7,Laptop,1300.0,2/8/2024,Karan Malhotra,karan@gmail.com,Delhi,1/20/2024,205,250,Google,5.2

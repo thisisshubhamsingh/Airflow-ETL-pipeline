@@ -1,0 +1,9 @@
+﻿order_id,customer_id,product,amount,order_date
+101,1,Phone,500,2/1/2024
+102,2,Laptop,1200,2/2/2024
+103,3,Tablet,300,2/3/2024
+104,1,Phone,500,2/1/2024
+105,4,Laptop,1500,2/5/2024
+106,5,Tablet,,2/6/2024
+107,6,Phone,700,2/7/2024
+108,7,Laptop,1300,2/8/2024

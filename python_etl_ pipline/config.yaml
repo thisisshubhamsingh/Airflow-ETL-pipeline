@@ -1,0 +1,4 @@
+env: dev
+
+paths:
+  base_path: "D:/python_etl_ pipline/data/processed"
